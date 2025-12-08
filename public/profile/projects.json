@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "React Portfolio",
+      "bodyText": "- Portfolio Website made in React\n -  Dark & Light Mode Support",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": ""
+        },
+        {
+          "text": "Live",
+          "href": ""
+        }
+      ],
+      "tags": [
+        "React",
+        "Portfolio",
+        "JavaScript"
+      ]
+    }
+  ]
+}

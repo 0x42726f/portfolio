@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Jun 2022 - Present",
+            "cardTitle": "Self Study",
+            "cardSubtitle":"Currently focusing on modern front-end development and CyberSecurity through self-study and hands-on projects. Working with Front-End technologies like React, Tailwind, and MUI",
+            "cardDetailedText": "Independent"
+        },
+        {
+            "title": "Sep 2015 - May 2026",
+            "cardTitle": "High School",
+            "cardSubtitle":"School No.3, General Secondary Education, Yangibazar, Khorezm, Uzbekistan",
+            "cardDetailedText": "Marks - 95%"
+        }
+    ]
+}

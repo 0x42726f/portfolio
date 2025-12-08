@@ -1,0 +1,83 @@
+{
+    "intro": "Here's a quick look at the technologies that shape my workflow as a\nfront-end developer:",
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/tailwindcss-original.svg",
+                    "title": "Tailwind"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/materialui-original.svg",
+                    "title": "MaterialUI"
+                },
+                {
+                    "icon": "images/skills/bootstrap-original.svg",
+                    "title": "Bootstrap"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/linux-original.svg",
+                    "title": "Linux"
+                },
+                {
+                    "icon": "images/skills/archlinux-original.svg",
+                    "title": "ArchLinux"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/photoshop.png",
+                    "title": "Photoshop"
+                },
+                {
+                    "icon": "images/skills/neovim-original.svg",
+                    "title": "NeoVim"
+                },
+                {
+                    "icon": "images/skills/terminal",
+                    "title": "terminal"
+                }
+            ]
+    }
+]}

@@ -1,0 +1,40 @@
+{
+    "experiences": [
+        {
+            "title": "Current Phase",
+            "subtitle": "Remote",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developing responsive and interactive web apps using React and modern CSS frameworks. Working solo on client and personal projects while expanding toward full-stack development"
+            ],
+            "dateText": "05/2025 – Present"
+        },
+        {
+            "title": "Break Phase",
+            "subtitle":"10-month break",
+            "workType": "Life Challenges",
+            "workDescription": [
+              "Took time off to adress a series of significant personal life challenges and used this period to recover, refocus, and prepare for the next stage of my career."
+            ],
+            "dateText":"07/2024 - 05/2025"
+        },
+        {
+            "title": "Growth Phase",
+            "subtitle": "Front-End Developer",
+            "workType": "Personal Projects",
+            "workDescription": [
+              "Built small web projects using React, Tailwind and MUI. Improved UI/UX design sense, component based structure, and Git version control"
+            ],
+            "dateText": "02/2023 – 07/2024"
+        },
+        {
+            "title": "Beginner Phase",
+            "subtitle": "Fundamentals Learner",
+            "workType": "Study",
+            "workDescription": [
+              "Started learning core web basics - HTML, CSS, and JavaScript"
+            ],
+            "dateText": "06/2022 – 02/2023"
+        }
+    ]
+}

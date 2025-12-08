@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/0x42726f"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/0x42726f"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:xolboyev@proton.me"
+        }
+    ]
+}
